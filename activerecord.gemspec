@@ -13,7 +13,7 @@ Gem::Specification.new do |s|
   s.email = "david@loudthinking.com"
   s.extra_rdoc_files = ["README.rdoc"]
   s.files = ["README.rdoc"]
-  s.homepage = "http://rubyonrails.org"
+  s.homepage = "https://github.com/JiHunJeon/activerecord"
   s.licenses = ["MIT"]
   s.rdoc_options = ["--main", "README.rdoc"]
   s.required_ruby_version = Gem::Requirement.new(">= 2.2.2")
